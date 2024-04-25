@@ -9,5 +9,5 @@ import androidx.compose.ui.window.application
 
 
 fun main() {
-    tutorial01()
+    tutarial02_3()
 }
